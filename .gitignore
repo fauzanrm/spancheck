@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+dist/
+
+# JS (for Module 6)
+node_modules/
+
+# OS
+.DS_Store
+
+# Private eval documents (for Module 1)
+python/eval/docs/private/

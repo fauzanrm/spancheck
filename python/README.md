@@ -1,0 +1,1 @@
+`See the project README on GitHub: https://github.com/fauzanrm/spancheck`
